@@ -8,6 +8,7 @@ Final Orientation on data1: 4.702320512820513 radians
 ![trajectory1_detailed](https://github.com/ajilataN/IntroductionToRobotics/assets/94647330/9ecba899-18ce-4fe4-bb13-4e1da29f54b2)
 
 
+
 ## Data 2
 Final Position on data2: [-0.015878774537798315, 1.0137767438246363]
 
